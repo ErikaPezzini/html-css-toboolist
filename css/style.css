@@ -77,10 +77,19 @@ background-color: #FFFFFF;
     background-color: #FF9B00;
 }
 
+/*Upcoming Section*/
+#pink-tag {
+    background-color: #EC4A9D;
+}
+
+#green-yellow-tag {
+    background-color: #A3D116;
+}
+
 /* For all section */
 h2 {
     display: inline-block;
-    padding-bottom: 5px;
+    padding-bottom: 8px;
 }
 
 .arrow-size {
