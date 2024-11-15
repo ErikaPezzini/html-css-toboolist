@@ -1,0 +1,21 @@
+/* Css reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Background */
+body {
+    background-color: #F6F8F9;
+}
+
+/* Header Section */
+header {
+background-color: #FFFFFF;
+}
+
+#logo {
+    margin-left: 10px;
+    padding: 10px;
+}
