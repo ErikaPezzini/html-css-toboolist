@@ -64,10 +64,23 @@ background-color: #FFFFFF;
     border-radius: 2px;
 }
 
+/*Today Section*/
+#purple-tag {
+    background-color: #AB5DE6;
+}
+
+#green-tag {
+    background-color: #2CC6AB;
+}
+
+#orange-tag {
+    background-color: #FF9B00;
+}
+
 /* For all section */
 h2 {
     display: inline-block;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
 }
 
 .arrow-size {
@@ -108,3 +121,24 @@ div {
     color:#FFFFFF;
     text-align: center;
 }
+
+.cross {
+    display: inline-block;
+    color: #FF0000;
+    font-size: x-small;
+    border: 1px solid #FF0000;
+    border-radius: 100%;
+    height: 18px;
+    width: 18px;
+    text-align: center;
+    line-height: 18px;
+}
+
+.text-space {
+    padding-bottom: 15px;
+}
+
+.last-option {
+    padding-bottom: 30px;
+}
+
