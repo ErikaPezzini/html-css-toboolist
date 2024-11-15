@@ -19,3 +19,36 @@ background-color: #FFFFFF;
     margin-left: 10px;
     padding: 10px;
 }
+
+/* Section: Add task and section*/
+
+#first-section {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 250px;
+    padding: 15px;
+}
+
+#first-section-task {
+    background-color: #14AAF5;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+#first-section-section {
+    border: 1px solid #DCE0E3;
+    display: inline-block;
+    width: 104px;
+    height: 28px;
+    text-align: center;
+    line-height: 26px;
+}
+
+.first-section-borders {
+    border-radius: 5px;
+}
