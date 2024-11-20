@@ -15,14 +15,14 @@ header {
 background-color: #FFFFFF;
 }
 
-#logo {
+.logo {
     margin-left: 10px;
     padding: 10px;
 }
 
 /* Section: Add task and section*/
 
-#first-section {
+.first-section {
     background-color: #FFFFFF;
     border-radius: 5px;
     width: 70%;
@@ -31,7 +31,7 @@ background-color: #FFFFFF;
     padding: 15px;
 }
 
-#first-section-task {
+.first-section-task {
     background-color: #14AAF5;
     padding: 5px;
     padding-left: 10px;
@@ -40,7 +40,7 @@ background-color: #FFFFFF;
     margin-left: 40px;
 }
 
-#first-section-section {
+.first-section-section {
     border: 1px solid #DCE0E3;
     display: inline-block;
     width: 104px;
@@ -54,7 +54,7 @@ background-color: #FFFFFF;
 }
 
 /* List Section */
-#main-background {
+.main-background {
     background-color: #FFFFFF;
     width: 70%;
     margin-top: 2px;
@@ -65,24 +65,24 @@ background-color: #FFFFFF;
 }
 
 /*Today Section*/
-#purple-tag {
+.purple-tag {
     background-color: #AB5DE6;
 }
 
-#green-tag {
+.green-tag {
     background-color: #2CC6AB;
 }
 
-#orange-tag {
+.orange-tag {
     background-color: #FF9B00;
 }
 
 /*Upcoming Section*/
-#pink-tag {
+.pink-tag {
     background-color: #EC4A9D;
 }
 
-#green-yellow-tag {
+.green-yellow-tag {
     background-color: #A3D116;
 }
 
